@@ -1,0 +1,3 @@
+[submodule "external/CapstoneDesign"]
+	path = external/CapstoneDesign
+	url = https://github.com/UniVoice260214/prototype.git
