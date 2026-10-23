@@ -1,3 +1,6 @@
 [submodule "external/CapstoneDesign"]
 	path = external/CapstoneDesign
 	url = https://github.com/UniVoice260214/prototype.git
+[submodule "external/DeepFake"]
+	path = external/DeepFake
+	url = https://github.com/lyeonsl/Phase-Guided-Moe-Routing
